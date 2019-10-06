@@ -23,6 +23,7 @@ export default {
 
 *{
   box-sizing: border-box;
+  background-color: #A0A0A0;
 }
 .container {
   max-width: 600px;
